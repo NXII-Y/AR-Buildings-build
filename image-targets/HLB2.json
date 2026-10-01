@@ -1,0 +1,23 @@
+{
+  "imagePath": "image-targets/HLB2_luminance.png",
+  "metadata": null,
+  "name": "HLB2",
+  "type": "PLANAR",
+  "properties": {
+    "left": 40,
+    "top": 0,
+    "width": 1247,
+    "height": 1662,
+    "isRotated": false,
+    "originalWidth": 1327,
+    "originalHeight": 1662
+  },
+  "resources": {
+    "originalImage": "HLB2_original.png",
+    "croppedImage": "HLB2_cropped.png",
+    "thumbnailImage": "HLB2_thumbnail.png",
+    "luminanceImage": "HLB2_luminance.png"
+  },
+  "created": 1790849365575,
+  "updated": 1790849365575
+}

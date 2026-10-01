@@ -1,0 +1,23 @@
+{
+  "imagePath": "image-targets/Erevanskaja_luminance.png",
+  "metadata": null,
+  "name": "Erevanskaja",
+  "type": "PLANAR",
+  "properties": {
+    "left": 256,
+    "top": 0,
+    "width": 1536,
+    "height": 2048,
+    "isRotated": true,
+    "originalWidth": 2048,
+    "originalHeight": 2048
+  },
+  "resources": {
+    "originalImage": "Erevanskaja_original.png",
+    "croppedImage": "Erevanskaja_cropped.png",
+    "thumbnailImage": "Erevanskaja_thumbnail.png",
+    "luminanceImage": "Erevanskaja_luminance.png"
+  },
+  "created": 1790849359337,
+  "updated": 1790849359337
+}

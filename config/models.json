@@ -1,0 +1,60 @@
+{
+    "Erevanskaja": [
+        {
+            "id": "Erevanskaja__Erevanskaja",
+            "label": "Erevanskaja",
+            "url": "models/Erevanskaja/Erevanskaja.glb",
+            "thumbnail": null,
+            "isDefault": true
+        }
+    ],
+    "LetchikaBabushkina_Vl_29_K_5_01": [
+        {
+            "id": "LetchikaBabushkina_Vl_29_K_5_01__01_LetchikaBabushkina_Vl_29_K_5_01",
+            "label": "LetchikaBabushkina_Vl_29_K_5_01",
+            "url": "models/LetchikaBabushkina_Vl_29_K_5_01/01_LetchikaBabushkina_Vl_29_K_5_01.glb",
+            "thumbnail": null,
+            "isDefault": true,
+            "anchor": {
+                "scale": 0.008,
+                "offset": [
+                    0.02,
+                    0
+                ],
+                "rotationY": 0
+            }
+        },
+        {
+            "id": "LetchikaBabushkina_Vl_29_K_5_01__02_LetchikaBabushkina_Vl_29_K_5_01_v2",
+            "label": "LetchikaBabushkina_Vl_29_K_5_01_v2",
+            "url": "models/LetchikaBabushkina_Vl_29_K_5_01/02_LetchikaBabushkina_Vl_29_K_5_01_v2.glb",
+            "thumbnail": null,
+            "isDefault": false,
+            "anchor": {
+                "scale": 0.00810611,
+                "offset": [
+                    0.015,
+                    0.005
+                ],
+                "rotationY": 0
+            }
+        }
+    ],
+    "HLB2": [
+        {
+            "id": "HLB2__Hlobystova_ZU_1621_K2",
+            "label": "Hlobystova_ZU_1621_K2",
+            "url": "models/HLB2/Hlobystova_ZU_1621_K2.glb",
+            "thumbnail": null,
+            "isDefault": true,
+            "anchor": {
+                "scale": 0.00436058,
+                "offset": [
+                    -0.035,
+                    0.0675
+                ],
+                "rotationY": 0
+            }
+        }
+    ]
+}

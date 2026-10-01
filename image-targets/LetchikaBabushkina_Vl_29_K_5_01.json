@@ -1,0 +1,23 @@
+{
+  "imagePath": "image-targets/LetchikaBabushkina_Vl_29_K_5_01_luminance.png",
+  "metadata": null,
+  "name": "LetchikaBabushkina_Vl_29_K_5_01",
+  "type": "PLANAR",
+  "properties": {
+    "left": 135,
+    "top": 0,
+    "width": 810,
+    "height": 1080,
+    "isRotated": true,
+    "originalWidth": 1080,
+    "originalHeight": 1080
+  },
+  "resources": {
+    "originalImage": "LetchikaBabushkina_Vl_29_K_5_01_original.png",
+    "croppedImage": "LetchikaBabushkina_Vl_29_K_5_01_cropped.png",
+    "thumbnailImage": "LetchikaBabushkina_Vl_29_K_5_01_thumbnail.png",
+    "luminanceImage": "LetchikaBabushkina_Vl_29_K_5_01_luminance.png"
+  },
+  "created": 1790849390987,
+  "updated": 1790849390987
+}
