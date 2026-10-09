@@ -1,0 +1,23 @@
+{
+  "imagePath": "image-targets/marks_luminance.png",
+  "metadata": null,
+  "name": "marks",
+  "type": "PLANAR",
+  "properties": {
+    "left": 40,
+    "top": 0,
+    "width": 1247,
+    "height": 1662,
+    "isRotated": false,
+    "originalWidth": 1327,
+    "originalHeight": 1662
+  },
+  "resources": {
+    "originalImage": "marks_original.png",
+    "croppedImage": "marks_cropped.png",
+    "thumbnailImage": "marks_thumbnail.png",
+    "luminanceImage": "marks_luminance.png"
+  },
+  "created": 1791540976052,
+  "updated": 1791540976052
+}

@@ -1,0 +1,82 @@
+{
+    "LetchikaBabushkina_Vl_29_K_5_01": [
+        {
+            "id": "LetchikaBabushkina_Vl_29_K_5_01__01_LetchikaBabushkina_Vl_29_K_5_01",
+            "label": "LetchikaBabushkina_Vl_29_K_5_01",
+            "url": "models/LetchikaBabushkina_Vl_29_K_5_01/01_LetchikaBabushkina_Vl_29_K_5_01.glb",
+            "thumbnail": null,
+            "isDefault": true,
+            "anchor": {
+                "scale": 0.008,
+                "offset": [
+                    0.02,
+                    0
+                ],
+                "rotationY": 0
+            }
+        },
+        {
+            "id": "LetchikaBabushkina_Vl_29_K_5_01__02_LetchikaBabushkina_Vl_29_K_5_01_v2",
+            "label": "LetchikaBabushkina_Vl_29_K_5_01_v2",
+            "url": "models/LetchikaBabushkina_Vl_29_K_5_01/02_LetchikaBabushkina_Vl_29_K_5_01_v2.glb",
+            "thumbnail": null,
+            "isDefault": false,
+            "anchor": {
+                "scale": 0.00810611,
+                "offset": [
+                    0.015,
+                    0.005
+                ],
+                "rotationY": 0
+            }
+        }
+    ],
+    "Kontur_9213ea02039f": [
+        {
+            "id": "Kontur_9213ea02039f__ShosseRublevskaja",
+            "label": "ShosseRublevskaja",
+            "url": "models/Kontur_9213ea02039f/ShosseRublevskaja.glb",
+            "thumbnail": null,
+            "isDefault": true,
+            "anchor": {
+                "scale": 0.00516478,
+                "offset": [
+                    -0.033,
+                    -0.0382
+                ],
+                "rotationY": 2.5
+            },
+            "facades": {
+                "defaultId": "main-v2",
+                "variants": [
+                    {
+                        "id": "main",
+                        "label": "Main",
+                        "nodes": [
+                            "SM_ShosseRublevskoe_Str_12_001_Main"
+                        ]
+                    },
+                    {
+                        "id": "main-v2",
+                        "label": "MainV2",
+                        "nodes": [
+                            "SM_ShosseRublevskoe_Str_12_001_MainV2"
+                        ]
+                    }
+                ],
+                "hiddenNodes": [
+                    "Light"
+                ]
+            }
+        }
+    ],
+    "marks": [
+        {
+            "id": "marks__Hlobystova_ZU_1621_K2",
+            "label": "Hlobystova_ZU_1621_K2",
+            "url": "models/marks/Hlobystova_ZU_1621_K2.glb",
+            "thumbnail": null,
+            "isDefault": true
+        }
+    ]
+}

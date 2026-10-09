@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="ru">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#000000">
+    <title>Общий экран — Моспроект</title>
+    <link rel="icon" href="data:,">
+  <script type="module" crossorigin src="/AR-Buildings-build/assets/screen-C4Z7eVTS.js"></script>
+  <link rel="modulepreload" crossorigin href="/AR-Buildings-build/assets/cast-protocol-lqe-miyB.js">
+  <link rel="stylesheet" crossorigin href="/AR-Buildings-build/assets/cast-protocol-CZP5ye7K.css">
+  <link rel="stylesheet" crossorigin href="/AR-Buildings-build/assets/screen-MIzS2uGD.css">
+</head>
+<body>
+    <canvas id="cast-canvas" aria-label="Модель здания"></canvas>
+    <main id="cast-pairing">
+        <section class="cast-card" aria-labelledby="cast-title">
+            <p class="cast-brand">Моспроект</p>
+            <h1 id="cast-title">Общий экран</h1>
+            <p class="cast-instruction">Подключите телефон к той же сети.<br>В AR-приложении откройте «Настройки» → «Общий экран» и введите код.</p>
+            <p id="cast-phone-address" class="cast-phone-address" hidden></p>
+            <output id="cast-code" aria-label="Код подключения">······</output>
+            <progress id="cast-progress" max="1" hidden aria-label="Загрузка модели"></progress>
+            <button id="cast-fullscreen" type="button">На весь экран</button>
+        </section>
+    </main>
+    <footer class="cast-status-bar">
+        <p id="cast-status" role="status" aria-live="polite">Подключение к локальному серверу…</p>
+        <button id="cast-retry" type="button" hidden>Повторить</button>
+    </footer>
+</body>
+</html>
