@@ -1,0 +1,6 @@
+private/
+runtime/
+node_modules/
+*.log
+localhost-key.pem
+localhost-cert.pem

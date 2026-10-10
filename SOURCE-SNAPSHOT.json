@@ -1,0 +1,345 @@
+{
+  "sourceRepository": "https://github.com/NXII-Y/AR-Buildings-web",
+  "sourceBranch": "work/kontur-ar-20261008-09",
+  "sourceCommit": "60e143247def10709118b298eec6db720d37ebc5",
+  "buildMainBase": "2dfb5d6c181849459266b0e34e5522d2c82246cc",
+  "objects": 3,
+  "models": 4,
+  "authoredContentPreserved": [
+    {
+      "path": "config/models.json",
+      "sha256": "0d7ee15953ae21b1f5ebac252a99bc7720b0aaabb804a71030428517930db096",
+      "sameAsCurrentMain": true,
+      "comparison": "JSON content unchanged; filesystem CRLF preserved"
+    },
+    {
+      "path": "config/buildings.json",
+      "sha256": "a82e8078a1b855a467c35b692a74b036562c6a29efdf2642e3fe0e80a89887ad",
+      "sameAsCurrentMain": true,
+      "comparison": "JSON content unchanged; filesystem CRLF preserved"
+    },
+    {
+      "path": "models/Kontur_9213ea02039f/ShosseRublevskaja.glb",
+      "sha256": "afdeaa5aa085e02bb20724d7b9d31c0e42e56021be9841b423b24fb944b12dcd",
+      "sameAsCurrentMain": true,
+      "comparison": "byte-identical"
+    }
+  ],
+  "buildFiles": [
+    {
+      "path": ".gitkeep",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "index.html",
+      "sha256": "8c194f7659a468fb549814c8829aef983f75ffc2053057e17f75a8b4fe714500",
+      "bytes": 8570
+    },
+    {
+      "path": "version.json",
+      "sha256": "8181c02cff57ed4d7d7fa829d8a4a2f520f30e8444429d03c81c4c552e1c6b8f",
+      "bytes": 1740
+    },
+    {
+      "path": "assets/app-C8TiyeLK.js",
+      "sha256": "ba4aa74b6c1423e3bb1f11c4e6616173f37a0e611e9722f529386410095f4262",
+      "bytes": 110169
+    },
+    {
+      "path": "assets/cast-protocol-CZP5ye7K.css",
+      "sha256": "4f7451f05e7f4141f6736fff9a822b41aa11225780c2ae3c2fbea8d0d038d528",
+      "bytes": 788
+    },
+    {
+      "path": "assets/cast-protocol-lqe-miyB.js",
+      "sha256": "d4acf6323695823d8d1229fcc828cddd2a3c6d04e1390065638a177e63fae369",
+      "bytes": 809668
+    },
+    {
+      "path": "assets/EXRLoader-CQYUxa4j.js",
+      "sha256": "aafdcfcf47d5b1bc9918c432cb3923d15e50ecd12e36b26d6757dab2d276080a",
+      "bytes": 31965
+    },
+    {
+      "path": "assets/screen-C4Z7eVTS.js",
+      "sha256": "c880e4a12a92d62c3683dd1558a1bda137a1d4d414f74f0af0965b3e7bbf08e9",
+      "bytes": 12441
+    },
+    {
+      "path": "assets/screen-MIzS2uGD.css",
+      "sha256": "691b5343529057a7d72b134b4ea8b1d76135cdaf8298959cdd507319600b9f51",
+      "bytes": 2433
+    },
+    {
+      "path": "assets/TTFirsNeue-Bold-CvMFbX4l.woff2",
+      "sha256": "9cac14b2ccbf842f8a6d50066744663a1e9cd5dc9d75c2e7c2f6e7411969626b",
+      "bytes": 30884
+    },
+    {
+      "path": "assets/TTFirsNeue-DemiBold-Di88Cpqt.woff2",
+      "sha256": "42e9a88202200bf1160ab0c5fd3d72b1df139725528b460d3b6f4ad81bf16a19",
+      "bytes": 31000
+    },
+    {
+      "path": "assets/TTFirsNeue-Medium-BYFYsdeO.woff2",
+      "sha256": "811a0521f7eab473754e0885dcfca5dfc6885209ad56464aeade94c9b6b857f4",
+      "bytes": 31116
+    },
+    {
+      "path": "assets/TTFirsNeue-Regular-BqFlXYlK.woff2",
+      "sha256": "8f9353a7ba7d1bfebc599e93f2d53ad94124877adff86c7bc8cdbad2c43c6576",
+      "bytes": 30764
+    },
+    {
+      "path": "brand/brand-entry.js",
+      "sha256": "ee7a5fcd19a1ebec72e4e9ccf1366d02d5c5414bed1dff815b5edc288f8ebc59",
+      "bytes": 957
+    },
+    {
+      "path": "brand/brand-intro.js",
+      "sha256": "73c7b2e2774020764a6b2084ef8f2a3adde61dceaabd66f97f2339fb680ed1a2",
+      "bytes": 10483
+    },
+    {
+      "path": "brand/firs-neue.ttf",
+      "sha256": "95f193316d304697d74603a4ac54e66479fed9380871d27f1306323ec7055cfe",
+      "bytes": 110824
+    },
+    {
+      "path": "brand/mosproekt-black-logo-web.png",
+      "sha256": "a16b6b0dd9212b2a15d4b6078d61dae0d48782a2350b9ad42e1cf5c71a267006",
+      "bytes": 29428
+    },
+    {
+      "path": "brand/mosproekt-black-logo.png",
+      "sha256": "450d85a14dc50ca819e4b29e8b6d995cb13a7b20652d97e41bd2a8065b5740d6",
+      "bytes": 242634
+    },
+    {
+      "path": "brand/mosproekt-logo.jpg",
+      "sha256": "3c6cf4caa2170baaa70dbb2451e2306a6f2cf62146063f8d9564574553ae9b7b",
+      "bytes": 68600
+    },
+    {
+      "path": "brand/mosproekt-wordmark.svg",
+      "sha256": "28423b7afb4f1cf6c30f97477612aa5db32d72dd997a68af84df93de6703deb8",
+      "bytes": 100674
+    },
+    {
+      "path": "config/buildings.json",
+      "sha256": "a82e8078a1b855a467c35b692a74b036562c6a29efdf2642e3fe0e80a89887ad",
+      "bytes": 1784
+    },
+    {
+      "path": "config/environments.json",
+      "sha256": "704fc890e3ff80cca129b84b7a72e8e9cda66049c5da3843be573d62f7271610",
+      "bytes": 140
+    },
+    {
+      "path": "config/models.json",
+      "sha256": "0d7ee15953ae21b1f5ebac252a99bc7720b0aaabb804a71030428517930db096",
+      "bytes": 2678
+    },
+    {
+      "path": "environments/default.exr",
+      "sha256": "bdf2298244affa0f85509380fd130ac6d4dfaa3c856df065998f7f4c1a93dc0d",
+      "bytes": 552641
+    },
+    {
+      "path": "environments/night.exr",
+      "sha256": "17480af5547465d160f7307c92585cf30820ca563f87f066395decbad8ac32a4",
+      "bytes": 139959
+    },
+    {
+      "path": "image-targets/Kontur_9213ea02039f.json",
+      "sha256": "92281dc0bf102b77dd4a0f407d0f8c0c9a79e5ff93e5fdb1a96d5f46f955a248",
+      "bytes": 636
+    },
+    {
+      "path": "image-targets/Kontur_9213ea02039f_cropped.png",
+      "sha256": "72def1045df27fe5b7aec1b465d184d25bfbc3cffcf20fdf0366be6924638282",
+      "bytes": 627517
+    },
+    {
+      "path": "image-targets/Kontur_9213ea02039f_luminance.png",
+      "sha256": "b0f91c82f7bf7a98a79bc26b290a44a7a4e64416734018117e864386ccbaa5c3",
+      "bytes": 184013
+    },
+    {
+      "path": "image-targets/Kontur_9213ea02039f_original.png",
+      "sha256": "fe4c45019d2b70a902da4ab793b15985ca13694d284c8275f89bfd6a70bdc88a",
+      "bytes": 630055
+    },
+    {
+      "path": "image-targets/Kontur_9213ea02039f_thumbnail.png",
+      "sha256": "e4231854e65c169a863d447359d7292ac49f0cbfa22a1ebeb498057f4dbdbae6",
+      "bytes": 122445
+    },
+    {
+      "path": "image-targets/LetchikaBabushkina_Vl_29_K_5_01.json",
+      "sha256": "230a06f44842068d772530d5784aeeeee620341b12e0aeb0c418b0372ef9c021",
+      "bytes": 713
+    },
+    {
+      "path": "image-targets/LetchikaBabushkina_Vl_29_K_5_01_cropped.png",
+      "sha256": "18241edc26c1ffc6c1ae46db4cb1c82992f311cee849e60c9ef26f854b916d7e",
+      "bytes": 720097
+    },
+    {
+      "path": "image-targets/LetchikaBabushkina_Vl_29_K_5_01_luminance.png",
+      "sha256": "6740a6f562e50abd7d83a4ce4b9864cfda65d2e2beac70fe4a9d22f892637c06",
+      "bytes": 158854
+    },
+    {
+      "path": "image-targets/LetchikaBabushkina_Vl_29_K_5_01_original.png",
+      "sha256": "bfe8ef8ccbb99f1172593c14b686f6740245fa9dbe2ab2a3317957e638d63209",
+      "bytes": 819792
+    },
+    {
+      "path": "image-targets/LetchikaBabushkina_Vl_29_K_5_01_thumbnail.png",
+      "sha256": "ab0b33737d01abba838c478aea3f072d7dff34ef06bc0d5176e14865007cec0d",
+      "bytes": 88909
+    },
+    {
+      "path": "image-targets/marks.json",
+      "sha256": "d93639d32ba6bb9ee85c10ad2d0d21be0da37446e34fa780eb0f60dea2791002",
+      "bytes": 558
+    },
+    {
+      "path": "image-targets/marks_cropped.png",
+      "sha256": "819b5441cbb7e8c287f9f16183866f82b4c86010c36cbc7eba534cc3d071a4e4",
+      "bytes": 3526759
+    },
+    {
+      "path": "image-targets/marks_luminance.png",
+      "sha256": "fd0c1b5667d326664bbd3f8943a9bd2004599762deb2e49895a9b933eab6cd1d",
+      "bytes": 340119
+    },
+    {
+      "path": "image-targets/marks_original.png",
+      "sha256": "4b958b80a0f686fd412a69416d6c8d061c0cca64a1c827c240053553a1dd0db4",
+      "bytes": 3747203
+    },
+    {
+      "path": "image-targets/marks_thumbnail.png",
+      "sha256": "c2e7a6b8b33789f81dd3e0bcccf0127cf23de40f46b4a2f45340fe898ea470cb",
+      "bytes": 224638
+    },
+    {
+      "path": "screen/index.html",
+      "sha256": "705c19dadda9e76e5f564436a0620d083561d18c4ca070f25239188d57162411",
+      "bytes": 1899
+    },
+    {
+      "path": "external/xr/LICENSE",
+      "sha256": "ed166ff1e5002cd7557f2c595a2398b092e76481070e6bc3b253e51517f3ae61",
+      "bytes": 15994
+    },
+    {
+      "path": "external/xr/xr-face.js",
+      "sha256": "43b3966b709871bf64216d31983e472693f21d1846bc5c52d014c0e132dc3a65",
+      "bytes": 7676552
+    },
+    {
+      "path": "external/xr/xr-slam.js",
+      "sha256": "398f675c920892afd4521d5196df2b6b8a1b8a90b6a5c749cf5ad1a6e0a85270",
+      "bytes": 5538007
+    },
+    {
+      "path": "external/xr/xr.js",
+      "sha256": "b3973936862f4cb77ae32d24f253d8a0e8b1de4fa2a0cf688833742889ee829d",
+      "bytes": 1036695
+    },
+    {
+      "path": "external/xr/resources/dom-tablet-button.glb",
+      "sha256": "69bb197329b5382906360a58e8a00995dae958667dbe93b002cb51068bfefda6",
+      "bytes": 38236
+    },
+    {
+      "path": "external/xr/resources/dom-tablet-frame.glb",
+      "sha256": "ceb73d8655c544b8fe0c60fdf7de9a6c5e20ed9410e5c412f325b183360ed9ed",
+      "bytes": 43028
+    },
+    {
+      "path": "external/xr/resources/face-ear-model.tflite",
+      "sha256": "4cd07c3ecc4ac3a19097ad5d8e2920113e8786d29302e48064b5e21b9f828552",
+      "bytes": 1173520
+    },
+    {
+      "path": "external/xr/resources/face-mesh-model.tflite",
+      "sha256": "97cd5b1d16d1d205445134d0d8882a619068c1a49277652c468049d0fc7f2756",
+      "bytes": 2495920
+    },
+    {
+      "path": "external/xr/resources/face-model.tflite",
+      "sha256": "0d800dd37230bb0503e2bc84ce547a1328dc0e2d8c54a5a92df953710decc4ed",
+      "bytes": 423340
+    },
+    {
+      "path": "external/xr/resources/media-worker.js",
+      "sha256": "db47c89ca2ec7d9eba75e114c195896c74c7b0ff888ce2970dfd9bd8bdfeda8d",
+      "bytes": 4995543
+    },
+    {
+      "path": "external/xr/resources/powered-by.svg",
+      "sha256": "4c8bf13771807ac55c963fc08421f611e6e1ab37d5410dc0bbf049f94bea0797",
+      "bytes": 6056
+    },
+    {
+      "path": "external/xr/resources/semantics-model.tflite",
+      "sha256": "b25bebe3ec1b7390feec937d1e4eafb3d6f2104d584a738c0bdf6486030b70a0",
+      "bytes": 2526160
+    },
+    {
+      "path": "external/xr/resources/semantics-worker.js",
+      "sha256": "7db219a04051354c20d0fbe16333236ba0b49054fbe985a334b49817032da45e",
+      "bytes": 4998145
+    },
+    {
+      "path": "models/Kontur_9213ea02039f/ShosseRublevskaja.glb",
+      "sha256": "afdeaa5aa085e02bb20724d7b9d31c0e42e56021be9841b423b24fb944b12dcd",
+      "bytes": 28421504
+    },
+    {
+      "path": "models/LetchikaBabushkina_Vl_29_K_5_01/01_LetchikaBabushkina_Vl_29_K_5_01.glb",
+      "sha256": "4d17a208db5e63dfc1fb8558dc360261edd8eb367c9fc9754ccd807c1faf3f37",
+      "bytes": 3476772
+    },
+    {
+      "path": "models/LetchikaBabushkina_Vl_29_K_5_01/02_LetchikaBabushkina_Vl_29_K_5_01_v2.glb",
+      "sha256": "cbd6cf46d3d9848d1e8ab31319c933660f6fe1fcb60d7a0409b6f10bf78155fa",
+      "bytes": 2272992
+    },
+    {
+      "path": "models/marks/Hlobystova_ZU_1621_K2.glb",
+      "sha256": "92cd8ac98e254d72bf18652600cb1cfc7719356998a85ac0d4d5c88f7a401170",
+      "bytes": 5214256
+    },
+    {
+      "path": "project-assets/Kontur_9213ea02039f/marker.png",
+      "sha256": "feb7785477fa1e633d4c64f8fbf86b539f26b576f215e29214f8b5526ddceaaa",
+      "bytes": 677536
+    },
+    {
+      "path": "project-assets/Kontur_9213ea02039f/presentation.pdf",
+      "sha256": "6b4a0241f8ff55076f23093b45e371aff291752a44e62fc3d909066258ef5fca",
+      "bytes": 4570947
+    },
+    {
+      "path": "project-assets/Kontur_9213ea02039f/render.png",
+      "sha256": "7f3c30bce7c15a0acf985c7852776d5b4777c1d50f36a020e6851db9fc3aa85d",
+      "bytes": 373479
+    }
+  ],
+  "verification": {
+    "typecheck": true,
+    "build": true,
+    "checkBuild": true,
+    "mergedChecks": 84,
+    "desktopCompiler": true,
+    "phoneVerified": false,
+    "physicalDisplayVerified": false
+  },
+  "notPublishedToMain": true
+}
