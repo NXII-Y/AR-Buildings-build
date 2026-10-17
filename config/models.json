@@ -1,0 +1,47 @@
+{
+    "Kontur_9213ea02039f": [
+        {
+            "id": "Kontur_9213ea02039f__ShosseRublevskaja_v4",
+            "label": "ShosseRublevskaja",
+            "url": "models/Kontur_9213ea02039f/ShosseRublevskaja_v4.glb",
+            "thumbnail": null,
+            "isDefault": true,
+            "anchor": {
+                "scale": 0.00457058,
+                "offset": [
+                    0.015,
+                    -0.0039
+                ],
+                "rotationY": 0
+            },
+            "facades": {
+                "defaultId": "main-v2",
+                "variants": [
+                    {
+                        "id": "main",
+                        "label": "Main",
+                        "nodes": [
+                            "SM_ShosseRublevskoe_Str_12_001_Main"
+                        ]
+                    },
+                    {
+                        "id": "main-v2",
+                        "label": "MainV2",
+                        "nodes": [
+                            "SM_ShosseRublevskoe_Str_12_001_MainV2"
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "qr": [
+        {
+            "id": "qr__01_LetchikaBabushkina_Vl_29_K_5_01",
+            "label": "LetchikaBabushkina_Vl_29_K_5_01",
+            "url": "models/qr/01_LetchikaBabushkina_Vl_29_K_5_01.glb",
+            "thumbnail": null,
+            "isDefault": true
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "default": {
+        "day": "environments/default.exr",
+        "night": "environments/night.exr"
+    },
+    "buildings": {}
+}

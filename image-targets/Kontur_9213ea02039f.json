@@ -1,0 +1,23 @@
+{
+  "imagePath": "image-targets/Kontur_9213ea02039f_luminance.png",
+  "metadata": null,
+  "name": "Kontur_9213ea02039f",
+  "type": "PLANAR",
+  "properties": {
+    "left": 0,
+    "top": 147,
+    "width": 3503,
+    "height": 4671,
+    "isRotated": true,
+    "originalWidth": 3503,
+    "originalHeight": 4965
+  },
+  "resources": {
+    "originalImage": "Kontur_9213ea02039f_original.png",
+    "croppedImage": "Kontur_9213ea02039f_cropped.png",
+    "thumbnailImage": "Kontur_9213ea02039f_thumbnail.png",
+    "luminanceImage": "Kontur_9213ea02039f_luminance.png"
+  },
+  "created": 1792262629775,
+  "updated": 1792262629775
+}

@@ -1,0 +1,53 @@
+{
+    "libraries": [
+        {
+            "id": "projects",
+            "label": "Проекты"
+        }
+    ],
+    "items": [
+        {
+            "id": "Kontur_9213ea02039f__ShosseRublevskaja_v4",
+            "library": "projects",
+            "label": "Рублёвское шоссе, 12",
+            "url": "models/Kontur_9213ea02039f/ShosseRublevskaja_v4.glb",
+            "thumbnail": null,
+            "footprint": [
+                166.11,
+                123.11
+            ],
+            "height": 104.42,
+            "facades": {
+                "defaultId": "main-v2",
+                "variants": [
+                    {
+                        "id": "main",
+                        "label": "Main",
+                        "nodes": [
+                            "SM_ShosseRublevskoe_Str_12_001_Main"
+                        ]
+                    },
+                    {
+                        "id": "main-v2",
+                        "label": "MainV2",
+                        "nodes": [
+                            "SM_ShosseRublevskoe_Str_12_001_MainV2"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "id": "qr__01_LetchikaBabushkina_Vl_29_K_5_01",
+            "library": "projects",
+            "label": "qr",
+            "url": "models/qr/01_LetchikaBabushkina_Vl_29_K_5_01.glb",
+            "thumbnail": null,
+            "footprint": [
+                106.12,
+                58.99
+            ],
+            "height": 60.45
+        }
+    ]
+}
